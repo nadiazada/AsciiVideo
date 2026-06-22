@@ -1,6 +1,11 @@
 # Ascii-self
 
 ## Getting Started
+## Live Demo
+
+[Try it here](https://nadiazada.github.io/AsciiVideo/)
+
+## Locally
 
 Open `index.html` in your web browser and start editing `sketch.js`.
 
